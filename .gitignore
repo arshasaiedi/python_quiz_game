@@ -1,2 +1,11 @@
+# puthon cache
 __pycache__/
+
+# quiz results
 results.txt
+
+#log files
+*.log
+
+#private environment file
+.env
