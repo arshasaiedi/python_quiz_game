@@ -2,7 +2,6 @@
 A simple quiz game built with python
 ## Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Requirments](#requirments)
@@ -10,6 +9,7 @@ A simple quiz game built with python
 - [Environment Setup](#environment-setup)
 - [Usage](#usage)
 - [Example Output](#example-output)
+- [Screenshot](#screenshot)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
@@ -105,6 +105,16 @@ wrong
 your score is: 1 out 3
 keep practicing reza
 ```
+## Screenshot
+
+### start game
+![start game](pictures\quiz1.png)
+### quiz
+![quiz](pictures\quiz2.png)
+### final score
+![final score](pictures\quiz3.png)
+
+
 ## Roadmap
 - [x] add multiple quiz question
 - [x] calculate the final score
