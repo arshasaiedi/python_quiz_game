@@ -18,5 +18,9 @@ questions = [
         {
         "question": "what command semnds commit to github?",
         "answer": "git push"
+    },
+        {
+        "question": "what command shows git branch?",
+        "answer": "git branch"
     }
 ]
